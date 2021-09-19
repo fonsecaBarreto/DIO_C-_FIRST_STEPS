@@ -1,0 +1,16 @@
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.csproj.AssemblyReference.cache
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.AssemblyInfoInputs.cache
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.AssemblyInfo.cs
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.csproj.CoreCompileInputs.cache
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/bin/Debug/net5.0/cadastro_de_usuario
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/bin/Debug/net5.0/cadastro_de_usuario.deps.json
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/bin/Debug/net5.0/cadastro_de_usuario.runtimeconfig.json
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/bin/Debug/net5.0/cadastro_de_usuario.runtimeconfig.dev.json
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/bin/Debug/net5.0/cadastro_de_usuario.dll
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/bin/Debug/net5.0/ref/cadastro_de_usuario.dll
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/bin/Debug/net5.0/cadastro_de_usuario.pdb
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.dll
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/ref/cadastro_de_usuario.dll
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.pdb
+/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/Debug/net5.0/cadastro_de_usuario.genruntimeconfig.cache

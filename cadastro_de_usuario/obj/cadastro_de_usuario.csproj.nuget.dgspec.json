@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/cadastro_de_usuario.csproj": {}
+  },
+  "projects": {
+    "/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/cadastro_de_usuario.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/cadastro_de_usuario.csproj",
+        "projectName": "cadastro_de_usuario",
+        "projectPath": "/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/cadastro_de_usuario.csproj",
+        "packagesPath": "/home/lucasfonsecab/.nuget/packages/",
+        "outputPath": "/home/lucasfonsecab/Documents/dev/DIO Avanade bootcamp/cadastro_de_usuario/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucasfonsecab/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
